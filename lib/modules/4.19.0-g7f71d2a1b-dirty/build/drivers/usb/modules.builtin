@@ -1,0 +1,17 @@
+kernel/drivers/usb/common/usb-common.ko
+kernel/drivers/usb/common/usb-otg-fsm.ko
+kernel/drivers/usb/core/usbcore.ko
+kernel/drivers/usb/dwc3/dwc3.ko
+kernel/drivers/usb/dwc3/dwc3-haps.ko
+kernel/drivers/usb/dwc3/dwc3-of-simple.ko
+kernel/drivers/usb/gadget/libcomposite.ko
+kernel/drivers/usb/gadget/function/u_ether.ko
+kernel/drivers/usb/gadget/function/usb_f_eem.ko
+kernel/drivers/usb/gadget/function/usb_f_mass_storage.ko
+kernel/drivers/usb/gadget/udc/udc-core.ko
+kernel/drivers/usb/gadget/udc/udc-xilinx.ko
+kernel/drivers/usb/host/xhci-hcd.ko
+kernel/drivers/usb/host/xhci-pci.ko
+kernel/drivers/usb/host/xhci-plat-hcd.ko
+kernel/drivers/usb/storage/uas.ko
+kernel/drivers/usb/storage/usb-storage.ko

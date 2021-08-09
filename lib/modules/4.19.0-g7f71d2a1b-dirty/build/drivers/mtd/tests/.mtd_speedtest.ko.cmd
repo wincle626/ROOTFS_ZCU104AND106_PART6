@@ -1,0 +1,1 @@
+cmd_drivers/mtd/tests/mtd_speedtest.ko := ld -r  -EL  -maarch64elf -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds  --build-id  -o drivers/mtd/tests/mtd_speedtest.ko drivers/mtd/tests/mtd_speedtest.o drivers/mtd/tests/mtd_speedtest.mod.o ;  true

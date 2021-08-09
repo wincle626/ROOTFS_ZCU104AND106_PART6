@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/arm/built-in.a := rm -f drivers/gpu/drm/arm/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/gpu/drm/arm/built-in.a drivers/gpu/drm/arm/malidp_drv.o drivers/gpu/drm/arm/malidp_hw.o drivers/gpu/drm/arm/malidp_planes.o drivers/gpu/drm/arm/malidp_crtc.o drivers/gpu/drm/arm/malidp_mw.o

@@ -1,0 +1,31 @@
+!<thin>
+//                                              218       `
+usbstring.o/
+config.o/
+epautoconf.o/
+composite.o/
+functions.o/
+configfs.o/
+u_f.o/
+udc/core.o/
+udc/trace.o/
+udc/udc-xilinx.o/
+function/u_ether.o/
+function/f_eem.o/
+function/f_mass_storage.o/
+function/storage_common.o/
+
+/0              0           0     0     644     148504    `
+/13             0           0     0     644     181992    `
+/23             0           0     0     644     161008    `
+/37             0           0     0     644     309544    `
+/50             0           0     0     644     176800    `
+/63             0           0     0     644     347336    `
+/75             0           0     0     644     143880    `
+/82             0           0     0     644     291368    `
+/94             0           0     0     644     131752    `
+/107            0           0     0     644     318808    `
+/125            0           0     0     644     390544    `
+/145            0           0     0     644     322832    `
+/163            0           0     0     644     449528    `
+/190            0           0     0     644     233744    `

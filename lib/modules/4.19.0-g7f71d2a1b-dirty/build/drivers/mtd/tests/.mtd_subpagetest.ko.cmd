@@ -1,0 +1,1 @@
+cmd_drivers/mtd/tests/mtd_subpagetest.ko := ld -r  -EL  -maarch64elf -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds  --build-id  -o drivers/mtd/tests/mtd_subpagetest.ko drivers/mtd/tests/mtd_subpagetest.o drivers/mtd/tests/mtd_subpagetest.mod.o ;  true

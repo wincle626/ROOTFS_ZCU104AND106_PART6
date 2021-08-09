@@ -1,0 +1,16 @@
+!<thin>
+//                                              184       `
+cadence/macb_main.o/
+cadence/macb_ptp.o/
+cavium/common/cavium_ptp.o/
+xilinx/xilinx_emaclite.o/
+xilinx/xilinx_axienet_main.o/
+xilinx/xilinx_axienet_mdio.o/
+xilinx/xilinx_axienet_dma.o/
+/0              0           0     0     644     752888    `
+/21             0           0     0     644     321192    `
+/41             0           0     0     644     202568    `
+/69             0           0     0     644     352336    `
+/95             0           0     0     644     502752    `
+/125            0           0     0     644     278632    `
+/155            0           0     0     644     307712    `

@@ -1,0 +1,55 @@
+!<thin>
+//                                              480       `
+ti/wlcore/main.o/
+ti/wlcore/cmd.o/
+ti/wlcore/io.o/
+ti/wlcore/event.o/
+ti/wlcore/tx.o/
+ti/wlcore/rx.o/
+ti/wlcore/ps.o/
+ti/wlcore/acx.o/
+ti/wlcore/boot.o/
+ti/wlcore/init.o/
+ti/wlcore/debugfs.o/
+ti/wlcore/scan.o/
+ti/wlcore/sysfs.o/
+ti/wlcore/vendor_cmd.o/
+ti/wlcore/testmode.o/
+ti/wlcore/spi.o/
+ti/wlcore/sdio.o/
+ti/wl18xx/main.o/
+ti/wl18xx/acx.o/
+ti/wl18xx/tx.o/
+ti/wl18xx/io.o/
+ti/wl18xx/debugfs.o/
+ti/wl18xx/scan.o/
+ti/wl18xx/cmd.o/
+ti/wl18xx/event.o/
+ti/wilink_platform_data.o/
+
+/0              0           0     0     644     1056432   `
+/18             0           0     0     644     561640    `
+/35             0           0     0     644     401680    `
+/51             0           0     0     644     430240    `
+/70             0           0     0     644     517536    `
+/86             0           0     0     644     400184    `
+/102            0           0     0     644     397104    `
+/118            0           0     0     644     526648    `
+/135            0           0     0     644     432944    `
+/153            0           0     0     644     403496    `
+/171            0           0     0     644     521184    `
+/192            0           0     0     644     417728    `
+/210            0           0     0     644     393248    `
+/229            0           0     0     644     396152    `
+/253            0           0     0     644     427024    `
+/275            0           0     0     644     456960    `
+/292            0           0     0     644     452704    `
+/310            0           0     0     644     552448    `
+/328            0           0     0     644     401960    `
+/345            0           0     0     644     388608    `
+/361            0           0     0     644     378968    `
+/377            0           0     0     644     670344    `
+/398            0           0     0     644     391496    `
+/416            0           0     0     644     391824    `
+/433            0           0     0     644     407920    `
+/452            0           0     0     644     76896     `

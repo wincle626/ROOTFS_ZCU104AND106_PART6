@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/function/usb_f_ecm_subset.ko := ld -r  -EL  -maarch64elf -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds  --build-id  -o drivers/usb/gadget/function/usb_f_ecm_subset.ko drivers/usb/gadget/function/usb_f_ecm_subset.o drivers/usb/gadget/function/usb_f_ecm_subset.mod.o ;  true

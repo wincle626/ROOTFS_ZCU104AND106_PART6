@@ -1,0 +1,1 @@
+cmd_drivers/rpmsg/virtio_rpmsg_bus.ko := ld -r  -EL  -maarch64elf -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds  --build-id  -o drivers/rpmsg/virtio_rpmsg_bus.ko drivers/rpmsg/virtio_rpmsg_bus.o drivers/rpmsg/virtio_rpmsg_bus.mod.o ;  true

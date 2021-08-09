@@ -1,0 +1,1 @@
+cmd_drivers/remoteproc/zynqmp_r5_remoteproc.ko := ld -r  -EL  -maarch64elf -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds  --build-id  -o drivers/remoteproc/zynqmp_r5_remoteproc.ko drivers/remoteproc/zynqmp_r5_remoteproc.o drivers/remoteproc/zynqmp_r5_remoteproc.mod.o ;  true

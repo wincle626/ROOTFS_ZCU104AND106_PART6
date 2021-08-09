@@ -1,0 +1,55 @@
+!<thin>
+//                                              402       `
+wlcore/main.o/
+wlcore/cmd.o/
+wlcore/io.o/
+wlcore/event.o/
+wlcore/tx.o/
+wlcore/rx.o/
+wlcore/ps.o/
+wlcore/acx.o/
+wlcore/boot.o/
+wlcore/init.o/
+wlcore/debugfs.o/
+wlcore/scan.o/
+wlcore/sysfs.o/
+wlcore/vendor_cmd.o/
+wlcore/testmode.o/
+wlcore/spi.o/
+wlcore/sdio.o/
+wl18xx/main.o/
+wl18xx/acx.o/
+wl18xx/tx.o/
+wl18xx/io.o/
+wl18xx/debugfs.o/
+wl18xx/scan.o/
+wl18xx/cmd.o/
+wl18xx/event.o/
+wilink_platform_data.o/
+
+/0              0           0     0     644     1056432   `
+/15             0           0     0     644     561640    `
+/29             0           0     0     644     401680    `
+/42             0           0     0     644     430240    `
+/58             0           0     0     644     517536    `
+/71             0           0     0     644     400184    `
+/84             0           0     0     644     397104    `
+/97             0           0     0     644     526648    `
+/111            0           0     0     644     432944    `
+/126            0           0     0     644     403496    `
+/141            0           0     0     644     521184    `
+/159            0           0     0     644     417728    `
+/174            0           0     0     644     393248    `
+/190            0           0     0     644     396152    `
+/211            0           0     0     644     427024    `
+/230            0           0     0     644     456960    `
+/244            0           0     0     644     452704    `
+/259            0           0     0     644     552448    `
+/274            0           0     0     644     401960    `
+/288            0           0     0     644     388608    `
+/301            0           0     0     644     378968    `
+/314            0           0     0     644     670344    `
+/332            0           0     0     644     391496    `
+/347            0           0     0     644     391824    `
+/361            0           0     0     644     407920    `
+/377            0           0     0     644     76896     `

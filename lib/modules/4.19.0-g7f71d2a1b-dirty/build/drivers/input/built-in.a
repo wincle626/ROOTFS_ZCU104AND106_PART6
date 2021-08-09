@@ -1,0 +1,41 @@
+!<thin>
+//                                              328       `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+input-polldev.o/
+input-leds.o/
+evdev.o/
+keyboard/atkbd.o/
+keyboard/gpio_keys.o/
+keyboard/gpio_keys_polled.o/
+mouse/psmouse-base.o/
+mouse/synaptics.o/
+mouse/focaltech.o/
+mouse/alps.o/
+mouse/byd.o/
+mouse/logips2pp.o/
+mouse/trackpoint.o/
+mouse/cypress_ps2.o/
+mouse/psmouse-smbus.o/
+
+/0              0           0     0     644     404160    `
+/9              0           0     0     644     142768    `
+/25             0           0     0     644     159824    `
+/37             0           0     0     644     166832    `
+/48            /0           0     0     644     169168    `
+/65             0           0     0     644     159976    `
+/79             0           0     0     644     364424    `
+/88             0           0     0     644     283208    `
+/106            0           0     0     644     250768    `
+/128            0           0     0     644     193272    `
+/157            0           0     0     644     288960    `
+/179            0           0     0     644     282136    `
+/198            0           0     0     644     160224    `
+/217            0           0     0     644     279800    `
+/231            0           0     0     644     159312    `
+/244            0           0     0     644     157864    `
+/263            0           0     0     644     189344    `
+/283            0           0     0     644     181648    `
+/304           /0           0     0     644     142016    `

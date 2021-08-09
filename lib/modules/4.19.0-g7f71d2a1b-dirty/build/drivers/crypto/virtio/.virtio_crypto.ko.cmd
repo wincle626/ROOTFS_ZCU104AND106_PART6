@@ -1,0 +1,1 @@
+cmd_drivers/crypto/virtio/virtio_crypto.ko := ld -r  -EL  -maarch64elf -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds  --build-id  -o drivers/crypto/virtio/virtio_crypto.ko drivers/crypto/virtio/virtio_crypto.o drivers/crypto/virtio/virtio_crypto.mod.o ;  true

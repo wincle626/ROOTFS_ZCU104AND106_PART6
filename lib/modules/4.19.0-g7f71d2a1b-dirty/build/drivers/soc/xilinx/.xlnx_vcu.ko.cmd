@@ -1,0 +1,1 @@
+cmd_drivers/soc/xilinx/xlnx_vcu.ko := ld -r  -EL  -maarch64elf -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds  --build-id  -o drivers/soc/xilinx/xlnx_vcu.ko drivers/soc/xilinx/xlnx_vcu.o drivers/soc/xilinx/xlnx_vcu.mod.o ;  true

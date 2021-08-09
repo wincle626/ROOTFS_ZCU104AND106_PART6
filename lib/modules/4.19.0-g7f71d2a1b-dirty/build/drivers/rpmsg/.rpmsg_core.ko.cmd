@@ -1,0 +1,1 @@
+cmd_drivers/rpmsg/rpmsg_core.ko := ld -r  -EL  -maarch64elf -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds  --build-id  -o drivers/rpmsg/rpmsg_core.ko drivers/rpmsg/rpmsg_core.o drivers/rpmsg/rpmsg_core.mod.o ;  true

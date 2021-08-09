@@ -1,0 +1,1 @@
+cmd_drivers/mtd/tests/mtd_nandbiterrs.ko := ld -r  -EL  -maarch64elf -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds  --build-id  -o drivers/mtd/tests/mtd_nandbiterrs.ko drivers/mtd/tests/mtd_nandbiterrs.o drivers/mtd/tests/mtd_nandbiterrs.mod.o ;  true
